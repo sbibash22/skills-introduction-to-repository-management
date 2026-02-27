@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @sbibash22
+/src/backend/database.py      @sbibash22
+/src/backend/routers/auth.py  @sbibash22
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @sbibash22
